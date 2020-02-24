@@ -96,6 +96,8 @@ Institute of Molecular Cell Biology and Genetics.</license.copyrightOwners>
 
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 		<releaseProfiles>deploy-to-scijava</releaseProfiles>
+		<imagej-legacy.version>999</imagej-legacy.version>
+		<imagej1.version>888</imagej1.version>
 	</properties>
 
 	<repositories>
